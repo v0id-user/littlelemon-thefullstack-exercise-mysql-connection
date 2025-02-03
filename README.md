@@ -1,5 +1,7 @@
 # The fullstack excercise
 
+This is my solution to the fullstack excercise number 1 which requires connecting the Little Lemon back-end to MySQL.
+
 ## The excercise
 Connect the Little Lemon back-end to MySQL
 
